@@ -1,7 +1,7 @@
 # Algorithm & Data Structure Fundamentals
 
 ## Overview
-This is a collection of different algorithms I developed for my Introduction to Algorithms class (6.006). Specifically, I cover elementary data structures (dynamic arrays, heaps, balanced binary search trees, hash tables) and algorithmic approaches to solve classical problems (sorting, graph searching, dynamic programming).
+A collection of different algorithms I developed for my Introduction to Algorithms class (6.006). Specifically, I cover elementary data structures (dynamic arrays, heaps, balanced binary search trees, hash tables) and algorithmic approaches to solve classical problems (sorting, graph searching, dynamic programming).
 
 ## heaps.py:
 Implementation of a database using min and max heaps to identify k items that are neither the [n−k]/2 largest nor the [n−k]/2 smallest. With this, we developed 2 methods:
